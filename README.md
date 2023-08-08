@@ -1,48 +1,58 @@
-<h1 align="center">Hi 👋, I'm Huy</h1>
-<h3 align="center">An aspiring software engineer</h3>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> Hi, I'm <a href="https://github.com/Defcon27">Huy</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
-## My tech stack:
+### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm an **Undergrad Student🎓 [@HCMUTE](https://hcmute.edu.vn/)** majoring in Computer Engineering. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new technologies. <br/><br/>
+  - 📙 Check out my [Portfolio](https://tranquochuy645.github.io).
+  - 📝 Download my [Resume](https://tranquochuy645.github.io/assets/tranquochuy.pdf).
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <div>
-    <h3>Frameworks / Libraries</h3>
-    <ul>
-      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="20" height="20"/> React</li>
-      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="20" height="20"/> ExpressJS</li>
-      <li><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Vite" width="20" height="20"/> Vite</li>
-      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket-io" width="20" height="20"/> Socket-io</li>
-      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="20" height="20"/> Arduino</li>
-      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="20" height="20"/> Flutter</li>
-    </ul>
-  </div>
-  <div>
-    <h3>Others</h3>
-    <ul>
-      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux OS" width="20" height="20"/> Linux OS</li>
-      <li><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg" alt="GitHub" width="20" height="20"/> GitHub</li>
-      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="20" height="20"/> Docker</li>
-      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20" height="20"/> Node.js</li>
-      <li><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="20" height="20"/> AWS</li>
-      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="20" height="20"/> MongoDB</li>
-      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="20" height="20"/> Firebase</li>
-      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="20" height="20"/> Unity</li>
-      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="20" height="20"/> Blender</li>
-      <li><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/JWT_LOGO.png" alt="JWT" width="20" height="20"/> JWT</li>
-      <li><img src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-dist.svg" alt="WebRTC" width="20" height="20"/> WebRTC</li>
-    </ul>
-  </div>
-</div>
+---
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tranquochuy645&langs_count=8&layout=compact&hide_border=true&theme=dark" alt="tranquochuy645" /></p>
+## ⚡️ Quick Facts
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on / currently learning:
+  - 🌐 Software Development for web applications.
+  - 🏙️ DevOps and cloud architecture.
+  - 💼 I’m seeking an internship/fresher backend/frontend developer position.
+  - 💬 I'm confident in my knowledge of TypeScript, Python and C programming languages, and more than happy to provide assistance with them.
 
-## Connect with me:
+---
+
+### 🖥️ My Dev Setup
+                
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" >
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
+
+---
+
+### ⚙️ Tools and Tech I Use
 
 <p align="center">
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAArCAYAAADhXXHAAAACLklEQVRYR+2Y31XCMBTGG6ANfRInUCeQEXADnUCcgG4ATECZQJhAN5ARdAJxAvXF0hYab2p6TikpCaEtcEzfgPz58X1f702LjBO60AmxGhq2LLe0slpZUEDHoNIYeJbVNxDqwqaXhJBnFEVje7mclQVB1w1Ms71EqI8QasPHuRFFEzsMp+k9N2LwY5ouqtV6G2CEDOwgGJYBvMC4RwzD5ew5hD0HyfdrsB4oaWD8ngdEVYbJDzDpqwhoAGwtLGvEXOQv6ftXNlU6e4N5jUbHqNdfBCDzehTdWWH4ug8ws/2R2Z6/1Gp1k0RwXVk52HhhmOg0fX+sAuyZZpcgNALQlnB+EbB0k11jQW2Hm5eqeSuETAYUBcvWk4oFtX1Vqz3RCiMNSgcWDCuMRe7dLkNdBiwvFkq2Z/9AWbDpWMQOqtheMayMufJjSlZWHkRm5L+Bhdr6BnXyWkYU0RiptfZRFrrWOfRzF/r5vQhm6++ETJtB4EBZ+9w6bh9Y2/fjFk1bJgBT6LOdoAn5htbnwPFvEq+DMVS4LVcRsHR5dhiZyMaC2t4gpJs+BFUGGzeCv2OeOBbM9uzxslLYxMDcWGRszxp+EFheLHi2Hw3sWizgA73bRU8VB1N2p6rABmvYRLWkzqqoyJujlT06ZeMCjzF9xL7Is7niGHzAWaSdVJSNNzKsIznQ8zs8YIDlfq+aYcjsjDuXkBmUPjdd+vRbRFWVRfO0siKFVH/XyqoqJ5r3C8HBnDuy3y7aAAAAAElFTkSuQmCC" alt="Email" />
+  <code><img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+  <code><img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></code>
+  <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg"></code>
+  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
+  <code><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></code>
+  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/></code>
+  <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"/></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
+  <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/JWT_LOGO.png"></code>
+  <code><img height="60" src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-dist.svg" /></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /></code>
+  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /></code>
+  <code><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"/></code>
+  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/></code>
+
 </p>
-<p align="center">
-  tranquochuy645@gmail.com
-</p>
+
+---
+
+### 📬 Find Me At
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/tranquochuy645)](https://github.com/tranquochuy645/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:tranquochuy645@gmail.com)
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tranquochuy645&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
