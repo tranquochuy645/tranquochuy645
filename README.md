@@ -1,18 +1,22 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> Hi, I'm <a href="https://github.com/Defcon27">Huy</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Undergrad Student🎓 [@HCMUTE](https://hcmute.edu.vn/)** majoring in Computer Engineering. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new technologies. <br/><br/>
+I'm an **Undergrad Student🎓 [@HCMUTE](https://hcmute.edu.vn/)** majoring in **Embedded System and IoT**. 
+I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new technologies. <br/><br/>
   - 📙 Check out my [Portfolio](https://tranquochuy645.github.io).
   - 📝 Download my [Resume](https://tranquochuy645.github.io/assets/tranquochuy.pdf).
 
 ---
 
 ## ⚡️ Quick Facts
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on / currently learning:
-  - 🌐 Software Development for web applications.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on/currently learning:
+  - 🌐 **Web applications development**.
+  <br>
   - 🏙️ DevOps and cloud architecture.
-  - 💼 I’m seeking an internship/fresher backend/frontend developer position.
-  - 💬 I'm confident in my knowledge of TypeScript, Python and C programming languages, and more than happy to provide assistance with them.
+  <br>
+  - 💼 I’m seeking an internship/fresher **backend/frontend developer** position.
+  <br>
+  - 💬 I'm most comfortable with **Linux OS** and **TypeScript**, and I'm more than happy to offer my assistance with them.
 
 ---
 
