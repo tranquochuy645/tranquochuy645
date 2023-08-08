@@ -43,9 +43,10 @@ I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new t
 <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101">
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 <img src="https://a11ybadges.com/badge?logo=jsonwebtokens">
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://a11ybadges.com/badge?logo=mongodb">
 <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=orange">
 <img src="https://a11ybadges.com/badge?logo=arduino">
+<img src="https://a11ybadges.com/badge?logo=raspberrypi">
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
 <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white">
