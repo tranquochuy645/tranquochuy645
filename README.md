@@ -27,51 +27,22 @@ I'm an **Undergrad Student🎓 [@HCMUTE](https://hcmute.edu.vn/)** majoring in C
 
 ### ⚙️ Tools and Tech I Use
 
-<p align="center">
-  <span style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 5px;">
-    <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  </span>
-  <span style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 5px;">
-    <img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  </span>
-  <span style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 5px;">
-    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg">
-  </span>
-  <span style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 5px;">
-    <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  </span>
-  <span style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 5px;">
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  </span>
-  <span style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 5px;">
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  </span>
-  <span style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 5px;">
-    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
-  </span>
-  <span style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 5px;">
-    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png">
-  </span>
-  <span style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 5px;">
-    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/JWT_LOGO.png">
-  </span>
-  <span style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 5px;">
-    <img height="60" src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-dist.svg">
-  </span>
-  <span style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 5px;">
-    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-  </span>
-  <span style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 5px;">
-    <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  </span>
-  <span style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 5px;">
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg">
-  </span>
-  <span style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 5px;">
-    <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-  </span>
+<p align="center" background-color="white">
+  <img height="90" margin="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img height="80" margin="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img height="60" margin="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <img height="60" margin="10px" src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-dist.svg" />
+  <img height="60" margin="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"/>
+  <img height="40" margin="10px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg">
+  <img height="40" margin="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  <img height="30" margin="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+  <img height="30" margin="10px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"/>
+  <img height="30" margin="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png">
+  <img height="30" margin="10px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/JWT_LOGO.png">
+  <img height="20" margin="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img height="20" margin="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img height="20" margin="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
 </p>
-
 
 ---
 
