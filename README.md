@@ -11,11 +11,8 @@ I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new t
 ## ⚡️ Quick Facts
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on/currently learning:
   - 🌐 **Web applications development**.
-  <br>
   - 🏙️ DevOps and cloud architecture.
-  <br>
   - 💼 I’m seeking an internship/fresher **backend/frontend developer** position.
-  <br>
   - 💬 I'm most comfortable with **Linux OS** and **TypeScript**, and I'm more than happy to offer my assistance with them.
 
 ---
