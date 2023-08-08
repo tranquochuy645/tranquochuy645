@@ -17,46 +17,37 @@ I'm an **Undergrad Student🎓 [@HCMUTE](https://hcmute.edu.vn/)** majoring in C
 ---
 
 ### 🖥️ My Dev Setup
-                
+<p align="left">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" >
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
-
+</p>
 ---
 
 ### ⚙️ Tools and Tech I Use
 <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=tranquochuy645&langs_count=8&layout=compact&hide_border=true&theme=dark" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=tranquochuy645&langs_count=8&layout=compact&hide_border=true&theme=dark" />
 </p>
 <p align="center">
-  <img height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  &nbsp;
-  <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  &nbsp;
-  <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  &nbsp;
-  <img height="60" width="60" src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-dist.svg" />
-  &nbsp;
-  <img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" />
-  &nbsp;
-  <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg">
-  &nbsp;
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-  &nbsp;
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-  &nbsp;
-  <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"/>
-  &nbsp;
-  <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png">
-  &nbsp;
-  <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/JWT_LOGO.png">
-  &nbsp;
-  <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  &nbsp;
-  <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  &nbsp;
-  <img height="20" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" />
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://a11ybadges.com/badge?logo=react">
+<img src="https://a11ybadges.com/badge?logo=nginx">
+<img src="https://a11ybadges.com/badge?logo=webrtc">
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+<img src="https://a11ybadges.com/badge?logo=docker">
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+<img src="https://a11ybadges.com/badge?logo=vite">
+<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101">
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+<img src="https://a11ybadges.com/badge?logo=jsonwebtokens">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=orange">
+<img src="https://a11ybadges.com/badge?logo=arduino">
+<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white">
+<img src="https://a11ybadges.com/badge?logo=postman">
 </p>
 
 ---
