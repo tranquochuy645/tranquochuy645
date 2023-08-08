@@ -1,17 +1,50 @@
 <h1 align="center">Hi 👋, I'm Huy</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">An aspiring software engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tranquochuy645&label=Profile%20views&color=0e75b6&style=flat" alt="tranquochuy645" /> </p>
+## My tech stack:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tranquochuy645" alt="tranquochuy645" /></a> </p>
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <div>
+    <h3>Frameworks / Libraries</h3>
+    <ul>
+      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="20" height="20"/> React</li>
+      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="20" height="20"/> ExpressJS</li>
+      <li><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Vite" width="20" height="20"/> Vite</li>
+      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket-io" width="20" height="20"/> Socket-io</li>
+      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="20" height="20"/> Arduino</li>
+      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="20" height="20"/> Flutter</li>
+    </ul>
+  </div>
+  <div>
+    <h3>Others</h3>
+    <ul>
+      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux OS" width="20" height="20"/> Linux OS</li>
+      <li><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg" alt="GitHub" width="20" height="20"/> GitHub</li>
+      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="20" height="20"/> Docker</li>
+      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20" height="20"/> Node.js</li>
+      <li><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="20" height="20"/> AWS</li>
+      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="20" height="20"/> MongoDB</li>
+      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="20" height="20"/> Firebase</li>
+      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="20" height="20"/> Unity</li>
+      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="20" height="20"/> Blender</li>
+      <li><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/JWT_LOGO.png" alt="JWT" width="20" height="20"/> JWT</li>
+      <li><img src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-dist.svg" alt="WebRTC" width="20" height="20"/> WebRTC</li>
+    </ul>
+  </div>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tranquochuy645&langs_count=8&layout=compact&hide_border=true&theme=dark" alt="tranquochuy645" /></p>
+
+## Connect with me:
+
+<p align="center">
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAArCAYAAADhXXHAAAACLklEQVRYR+2Y31XCMBTGG6ANfRInUCeQEXADnUCcgG4ATECZQJhAN5ARdAJxAvXF0hYab2p6TikpCaEtcEzfgPz58X1f702LjBO60AmxGhq2LLe0slpZUEDHoNIYeJbVNxDqwqaXhJBnFEVje7mclQVB1w1Ms71EqI8QasPHuRFFEzsMp+k9N2LwY5ouqtV6G2CEDOwgGJYBvMC4RwzD5ew5hD0HyfdrsB4oaWD8ngdEVYbJDzDpqwhoAGwtLGvEXOQv6ftXNlU6e4N5jUbHqNdfBCDzehTdWWH4ug8ws/2R2Z6/1Gp1k0RwXVk52HhhmOg0fX+sAuyZZpcgNALQlnB+EbB0k11jQW2Hm5eqeSuETAYUBcvWk4oFtX1Vqz3RCiMNSgcWDCuMRe7dLkNdBiwvFkq2Z/9AWbDpWMQOqtheMayMufJjSlZWHkRm5L+Bhdr6BnXyWkYU0RiptfZRFrrWOfRzF/r5vQhm6++ETJtB4EBZ+9w6bh9Y2/fjFk1bJgBT6LOdoAn5htbnwPFvEq+DMVS4LVcRsHR5dhiZyMaC2t4gpJs+BFUGGzeCv2OeOBbM9uzxslLYxMDcWGRszxp+EFheLHi2Hw3sWizgA73bRU8VB1N2p6rABmvYRLWkzqqoyJujlT06ZeMCjzF9xL7Is7niGHzAWaSdVJSNNzKsIznQ8zs8YIDlfq+aYcjsjDuXkBmUPjdd+vRbRFWVRfO0siKFVH/XyqoqJ5r3C8HBnDuy3y7aAAAAAElFTkSuQmCC" alt="Email" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tranquochuy645&show_icons=true&locale=en&layout=compact" alt="tranquochuy645" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tranquochuy645&show_icons=true&locale=en" alt="tranquochuy645" /></p>
+<p align="center">
+  tranquochuy645@gmail.com
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tranquochuy645&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+</p>
