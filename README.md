@@ -27,7 +27,7 @@ I'm an **Undergrad Student🎓 [@HCMUTE](https://hcmute.edu.vn/)** majoring in C
 
 ### ⚙️ Tools and Tech I Use
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=tranquochuy645&langs_count=8&layout=compact&hide_border=true&theme=dark" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=tranquochuy645&langs_count=8&layout=normal&hide_border=true&theme=transparent&title_color=fc5203&card_width=600"/>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
