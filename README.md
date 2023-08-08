@@ -38,7 +38,7 @@ I'm an **Undergrad Student🎓 [@HCMUTE](https://hcmute.edu.vn/)** majoring in C
   &nbsp;
   <img height="60" width="60" src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-dist.svg" />
   &nbsp;
-  <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
+  <img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" />
   &nbsp;
   <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg">
   &nbsp;
@@ -56,7 +56,7 @@ I'm an **Undergrad Student🎓 [@HCMUTE](https://hcmute.edu.vn/)** majoring in C
   &nbsp;
   <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   &nbsp;
-  <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+  <img height="20" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" />
 </p>
 
 ---
