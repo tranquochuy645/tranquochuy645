@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> Hi, I'm <a href="https://github.com/Defcon27">Huy</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm an **Undergrad Student🎓 [@HCMUTE](https://hcmute.edu.vn/)** majoring in **Embedded System and IoT**. 
 I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new technologies. <br/><br/>
   - 📙 Check out my [Portfolio](https://tranquochuy645.github.io).
@@ -17,7 +17,7 @@ I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new t
 
 ---
 
-### 🖥️ My Dev Setup
+## 🖥️ My Dev Setup
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" >
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
@@ -27,7 +27,7 @@ I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new t
 
 ---
 
-### ⚙️ Tools and Tech I Use
+## ⚙️ Tools and Tech I Use
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=tranquochuy645&langs_count=8&layout=normal&hide_border=true&theme=transparent&title_color=fc5203&card_width=600"/>
 </p>
@@ -54,7 +54,7 @@ I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new t
 
 ---
 
-### 📬 Find Me At
+## 📬 Find Me At
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/tranquochuy645)](https://github.com/tranquochuy645/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:tranquochuy645@gmail.com)
 
