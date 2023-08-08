@@ -33,8 +33,6 @@
   </div>
 </div>
 
-
-
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tranquochuy645&langs_count=8&layout=compact&hide_border=true&theme=dark" alt="tranquochuy645" /></p>
 
 ## Connect with me:
