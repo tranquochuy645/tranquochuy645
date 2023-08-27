@@ -1,15 +1,15 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> Hi, I'm <a href="https://github.com/tranquochuy645">Huy</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
-## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm an **Undergrad Student🎓 [@HCMUTE](https://hcmute.edu.vn/)** majoring in **Embedded System and IoT**. 
-I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new technologies. <br/><br/>
+
+My passion for technology drives me, and I am dedicated to honing my skills to contribute effectively in the field of **software engineering**. 
   - 📙 Check out my [Portfolio](https://tranquochuy645.github.io).
   - 📝 Download my [Resume](https://tranquochuy645.github.io/assets/tranquochuy.pdf).
 
 ---
 
 ## ⚡️ Quick Facts
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on/currently learning:
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on and currently learning:
   - 🌐 **Web applications development**.
   - 🏙️ DevOps and cloud architecture.
   - 💼 I’m seeking an internship/fresher **backend/frontend developer** position.
@@ -20,9 +20,12 @@ I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new t
 ## 🖥️ My Dev Setup
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" >
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
+<img src="https://a11ybadges.com/badge?logo=postman">
+</p>
 </p>
 
 ---
@@ -50,8 +53,7 @@ I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new t
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
 <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white">
-<img src="https://a11ybadges.com/badge?logo=postman">
-</p>
+<img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
 
 ---
 
