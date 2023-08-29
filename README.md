@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> Hi, I'm <a href="https://github.com/tranquochuy645">Huy</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
-I'm an **Undergrad Student🎓 [@HCMUTE](https://hcmute.edu.vn/)** majoring in **Embedded System and IoT**. 
+I'm an **Undergrad Student 🎓 [@HCMUTE](https://hcmute.edu.vn/)** majoring in **Embedded System and IoT**. 
 
 My passion for technology drives me, and I am dedicated to honing my skills to contribute effectively in the field of **software engineering**. 
   - 📙 Check out my [Portfolio](https://tranquochuy645.github.io).
