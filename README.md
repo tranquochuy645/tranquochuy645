@@ -57,7 +57,7 @@ My passion for technology drives me, and I am dedicated to honing my skills to c
 ## 🖥️💻 Programming Languages I've Been Using a Lot 
 (Percentage of Total Usage)
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=tranquochuy645&langs_count=8&layout=normal&hide_title=true&hide_border=true&theme=transparent&title_color=fc5203&card_width=600"/>
+<img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=tranquochuy645&langs_count=8&layout=normal&hide_title=true&hide_border=true&theme=transparent&title_color=fc5203&card_width=600"/>
 </p>
 
 ---
