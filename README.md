@@ -11,13 +11,13 @@ My passion for technology drives me, and I am dedicated to honing my skills to c
 ## ⚡️ Quick Facts
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on and currently learning:
   - 🌐 **Web applications development**.
-  - 🏙️ DevOps and cloud architecture.
+  - 🤖 ☁️ DevOps and cloud architecture.
   - 💼 I’m seeking an internship/fresher **backend/frontend developer** position.
-  - 💬 I'm most comfortable with **Linux OS** and **TypeScript**, and I'm more than happy to offer my assistance with them.
+  - 💬 ❓ I'm most comfortable with **Linux OS** and **TypeScript**, and I'm more than happy to offer my assistance with them.
 
 ---
 
-## 🖥️ My Dev Setup
+## 🚀 My Dev Setup
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" >
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
