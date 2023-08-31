@@ -12,7 +12,7 @@ My passion for technology drives me, and I am dedicated to honing my skills to c
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on and currently learning:
   - 🌐 **Web applications development**.
   - 🤖 DevOps and ☁️ cloud architecture.
-  - 💼 I’m seeking an internship/fresher 👨‍💻 **backend/frontend developer** position.
+  - 💼 I’m seeking an internship/fresher 👨‍💻 **backend developer** position.
   - 💬 ❓ I'm most comfortable with **Linux OS** and **TypeScript**, and I'm more than happy to offer my assistance with them.
 
 ---
