@@ -1,8 +1,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> Hi, I'm <a href="https://github.com/tranquochuy645">Huy</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
-I'm an **Undergrad Student 🎓 [@HCMUTE](https://hcmute.edu.vn/)** majoring in **Embedded System and IoT**. 
-
-My passion for technology drives me, and I am dedicated to honing my skills to contribute effectively in the field of **software engineering**. 
+I'm a **final-year student**🎓 of [@HCMUTE](https://hcmute.edu.vn/) majoring in **Embedded System and IoT**. 
+ 
   - 📙 Check out my [Portfolio](https://tranquochuy645.github.io).
   - 📝 Download my [Resume](https://tranquochuy645.github.io/assets/tranquochuy.pdf).
 
@@ -12,7 +11,7 @@ My passion for technology drives me, and I am dedicated to honing my skills to c
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on and currently learning:
   - 🌐 **Web applications development**.
   - 🤖 DevOps and ☁️ cloud architecture.
-  - 💼 I’m seeking an internship/fresher 👨‍💻 **backend/frontend developer** position.
+  - 💼 I’m seeking an internship/fresher 👨‍💻 **Fullstack Developer** position.
   - 💬 ❓ I'm most comfortable with **Linux OS** and **TypeScript**, and I'm more than happy to offer my assistance with them.
 
 ---
