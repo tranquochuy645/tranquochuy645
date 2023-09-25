@@ -12,7 +12,7 @@ I'm a **final-year student**🎓 of [@HCMUTE](https://hcmute.edu.vn/) majoring i
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on and currently learning:
   - 🌐 **Web applications and services development**.
   - 🤖 DevOps and ☁️ cloud architecture.
-  - 💼 I’m seeking an internship/fresher 👨‍💻 **Fullstack Developer** position.
+  - 💼 I’m seeking a 👨‍💻 **Backend Developer** position.
   - 💬 ❓ I'm most comfortable with **Linux OS** and **TypeScript**, and I'm more than happy to offer my assistance with them.
 
 ---
