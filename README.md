@@ -1,4 +1,5 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> Hi, I'm <a href="https://github.com/tranquochuy645">Huy</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<h1 align="center">
+Hi, I'm Huy <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"><img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
 I'm a **final-year student**🎓 of [@HCMUTE](https://hcmute.edu.vn/) majoring in **Embedded System and IoT**. 
  
@@ -9,7 +10,7 @@ I'm a **final-year student**🎓 of [@HCMUTE](https://hcmute.edu.vn/) majoring i
 
 ## ⚡️ Quick Facts
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on and currently learning:
-  - 🌐 **Web applications development**.
+  - 🌐 **Web applications and services development**.
   - 🤖 DevOps and ☁️ cloud architecture.
   - 💼 I’m seeking an internship/fresher 👨‍💻 **Fullstack Developer** position.
   - 💬 ❓ I'm most comfortable with **Linux OS** and **TypeScript**, and I'm more than happy to offer my assistance with them.
