@@ -7,12 +7,12 @@ I'm a **final-year student**🎓 of [@HCMUTE](https://hcmute.edu.vn/) majoring i
 
 ---
 
-## ⚡️ Quick Facts
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on and currently learning:
-  - 🌐 **Web applications and services development**.
-  - 🤖 DevOps and ☁️ cloud architecture.
-  - 💼 I’m seeking a 👨‍💻 **Backend Developer** position.
-  - 💬 ❓ I'm most comfortable with **Linux OS** and **TypeScript**, and I'm more than happy to offer my assistance with them.
+## ⚡️ Brief Overview of My Work <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+- 🌐 Dedicated time to mastering Web applications and services development.
+- 🤖 Actively delving into DevOps and ☁️ cloud architecture realms.
+- 💼 Actively seeking a role as a 👨‍💻 Backend Developer.
+- 💬 ❓ Possess a solid grasp of general programming skills and Linux OS, happy to assist in this area.
 
 ---
 
@@ -20,9 +20,12 @@ I'm a **final-year student**🎓 of [@HCMUTE](https://hcmute.edu.vn/) majoring i
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" >
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
 <img src="https://a11ybadges.com/badge?logo=postman">
+<img src="https://a11ybadges.com/badge?logo=vite">
+<img src="https://a11ybadges.com/badge?logo=docker">
 </p>
 </p>
 
@@ -30,15 +33,12 @@ I'm a **final-year student**🎓 of [@HCMUTE](https://hcmute.edu.vn/) majoring i
 
 ## ⚙️ Tech Stacks I'm Familiar With
 <p align="center">
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://a11ybadges.com/badge?logo=react">
 <img src="https://a11ybadges.com/badge?logo=nginx">
 <img src="https://a11ybadges.com/badge?logo=webrtc">
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-<img src="https://a11ybadges.com/badge?logo=docker">
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-<img src="https://a11ybadges.com/badge?logo=vite">
 <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101">
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 <img src="https://a11ybadges.com/badge?logo=jsonwebtokens">
@@ -46,8 +46,6 @@ I'm a **final-year student**🎓 of [@HCMUTE](https://hcmute.edu.vn/) majoring i
 <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=orange">
 <img src="https://a11ybadges.com/badge?logo=arduino">
 <img src="https://a11ybadges.com/badge?logo=raspberrypi">
-<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
-<img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
 
 ---
 
