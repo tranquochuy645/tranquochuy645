@@ -1,13 +1,13 @@
-<h1 align="center">Hi, I'm Huy </h1>
-
-I'm a **final-year student**🎓 of [@HCMUTE](https://hcmute.edu.vn/) majoring in **Embedded System and IoT**.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"><img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"> 
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"></h1>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm a **final-year student**🎓 of [@HCMUTE](https://hcmute.edu.vn/) majoring in **Embedded System and IoT**.
  
   - 📙 Check out my [Portfolio](https://tranquochuy645.github.io).
   - 📝 Download my [Resume](https://tranquochuy645.github.io/assets/tranquochuy.pdf).
 
 ---
 
-## ⚡️ Brief Overview of My Work <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## ⚡️ Brief Overview of My Work 
 
 - 🌐 Dedicated time to mastering Web applications and services development.
 - 🤖 Actively delving into DevOps and ☁️ cloud architecture realms.
