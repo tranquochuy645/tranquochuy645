@@ -60,6 +60,7 @@
 <p align="center">
 <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=tranquochuy645&langs_count=12&size_weight=0.5&count_weight=0.5&layout=compact&hide_title=true&hide_border=true&theme=transparent&title_color=fc5203&card_width=400" width="100%"/>
 <p align="center">( Percentage of usage )</p>
+
 ---
 
 ## 📬 Find Me At
