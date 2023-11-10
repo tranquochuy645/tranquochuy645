@@ -7,12 +7,17 @@
 
 ---
 
-## ⚡️ Brief Overview of My Work 
+## ⚡️ What I do ❓
 
-- 🌐 Dedicated time to mastering Web applications and services development.
-- 🤖 Actively delving into DevOps and ☁️ cloud architecture realms.
-- 💼 Actively seeking a role as a 👨‍💻 Backend Developer.
-- 💬 ❓ Possess a solid grasp of general programming skills and Linux OS, happy to assist in this area.
+- 👨‍💻 Proficient in general programming skills.
+
+- 🌐 Devoting time to master web/mobile app and service development.
+
+- 🖧 Gaining expertise in network, Linux OS, and system management.
+
+- 🤖 Initiating with basic DevOps and ☁️ cloud architecture.
+
+- 💼 Aspiring to be a Backend Developer.
 
 ---
 
@@ -27,13 +32,10 @@
 <img src="https://a11ybadges.com/badge?logo=vite">
 <img src="https://a11ybadges.com/badge?logo=docker">
 </p>
-<p  align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</p>
 
 ---
 
-## ⚙️ Tech Stacks I'm Familiar With
+## ⚙️ My Stacks
 <p align="center">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://a11ybadges.com/badge?logo=react">
@@ -51,10 +53,13 @@
 
 ---
 
-## 🖥️💻 Programming Languages I've Been Using a Lot 
-(Percentage of Total Usage)
+## 🖥️💻 Programming Languages
+<p  align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</p>
 <p align="center">
 <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=tranquochuy645&langs_count=8&layout=normal&hide_title=true&hide_border=true&theme=transparent&title_color=fc5203&card_width=600"/>
+( Percentage of usage )
 </p>
 
 ---
