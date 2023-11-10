@@ -9,15 +9,15 @@
 
 ## ⚡️ What I do ❓
 
-- 👨‍💻 Proficient in general programming skills.
+- 👨‍💻 Possess a solid grasp of general programming skills.
 
-- 🌐 Devoting time to master web/mobile app and service development.
+- 💼 Aspire to become a **Backend Developer**.
 
-- 🖧 Gaining expertise in network, Linux OS, and system management.
+- 🌐 Devote time to mastering web development.
 
-- 🤖 Initiating with basic DevOps and ☁️ cloud architecture.
+- 🖧 Gain expertise in network, Linux OS, and system management.
 
-- 💼 Aspiring to be a Backend Developer.
+- 🤖 Initiate with basic DevOps and ☁️ cloud architecture.
 
 ---
 
