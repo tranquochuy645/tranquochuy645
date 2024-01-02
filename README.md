@@ -13,7 +13,7 @@ I'm a **final-year student**🎓 of [@HCMUTE](https://hcmute.edu.vn/) majoring i
 
 - 💼 I aspire to become a **Backend Developer**.
 
-- 👨‍💻 I do a lot of coding - Primarily working with TypeScript.
+- 👨‍💻 I engage in a lot of coding, primarily working with TypeScript.
 
 - 🌐 I possess a robust understanding of web development.
 
