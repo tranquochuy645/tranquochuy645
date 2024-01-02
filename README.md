@@ -1,23 +1,27 @@
-<h1 align="center">This is Huy</h1>
+<h1 align="center">Greeting!</h1>
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> I'm a **final-year student**🎓 of [@HCMUTE](https://hcmute.edu.vn/) majoring in **Embedded System and IoT**.
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> My name is Trần Quốc Huy
+
+I'm a **final-year student**🎓 of [@HCMUTE](https://hcmute.edu.vn/) majoring in **Embedded System and IoT**.
  
   - 📙 Check out my [Portfolio](https://tranquochuy645.github.io).
   - 📝 Download my [Resume](https://tranquochuy645.github.io/assets/tranquochuy.pdf).
 
 ---
 
-## ⚡️ What I do ❓
+## ⚡️ Quick facts about me ❓
 
-- 👨‍💻 Possess a solid grasp of general programming skills.
+- 💼 I aspire to become a **Backend Developer**.
 
-- 💼 Aspire to become a **Backend Developer**.
+- 👨‍💻 I do a lot of coding - Primarily working with TypeScript.
 
-- 🌐 Devote time to mastering web development.
+- 🌐 I possess a robust understanding of web development.
 
-- 🖧 Gain expertise in network, Linux OS, and system management.
+- 🖧 I am familiar with Linux OS, network, and system management.
 
-- 🤖 Initiate with basic DevOps and ☁️ cloud architecture.
+- 📟 My educational background centers around Embedded Systems and IoT.
+
+- 🤖 Currently, I am delving into basic DevOps and ☁️ cloud architecture.
 
 ---
 
@@ -48,7 +52,9 @@
 <img src="https://a11ybadges.com/badge?logo=jsonwebtokens">
 <img src="https://a11ybadges.com/badge?logo=mongodb">
 <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=orange">
+<img src="https://a11ybadges.com/badge?logo=android"/>
 <img src="https://a11ybadges.com/badge?logo=arduino">
+<img src="https://a11ybadges.com/badge?logo=espressif">
 <img src="https://a11ybadges.com/badge?logo=raspberrypi">
 
 ---
@@ -62,11 +68,8 @@
 <p align="center">( Percentage of usage )</p>
 
 ---
-
-## 📬 Find Me At
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/tranquochuy645)](https://github.com/tranquochuy645/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tranquochuy645@gmail.com)](mailto:tranquochuy645@gmail.com)
-
+ 
+### [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tranquochuy645@gmail.com)](mailto:tranquochuy645@gmail.com) -- 📬 tranquochuy645@gmail.com
 ---
 
 <p align="center">
