@@ -17,7 +17,7 @@ I'm a **final-year student**🎓 of [@HCMUTE](https://hcmute.edu.vn/) majoring i
 
 - 🌐 I possess a robust understanding of web development.
 
-- 🖧 I am familiar with Linux OS, network, and system management.
+- 🖧 I am familiar with Linux OS, and network administration.
 
 - 📟 My educational background centers around Embedded Systems and IoT.
 
@@ -70,6 +70,7 @@ I'm a **final-year student**🎓 of [@HCMUTE](https://hcmute.edu.vn/) majoring i
 ---
  
 ### [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tranquochuy645@gmail.com)](mailto:tranquochuy645@gmail.com) -- 📬 tranquochuy645@gmail.com
+
 ---
 
 <p align="center">
