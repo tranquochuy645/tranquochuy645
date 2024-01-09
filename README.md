@@ -5,7 +5,7 @@
 I'm a **final-year student**🎓 of [@HCMUTE](https://hcmute.edu.vn/) majoring in **Embedded System and IoT**.
  
   - 📙 Check out my [Portfolio](https://tranquochuy645.github.io).
-  - 📝 Download my [Resume](https://tranquochuy645.github.io/assets/tranquochuy.pdf).
+  - 📝 Download my [Resume](https://tranquochuy645.github.io/assets/TranQuocHuy_WebDeveloper.pdf).
 
 ---
 
