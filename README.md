@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> My name is Trần Quốc Huy
 
-I'm a **final-year student**🎓 of [@HCMUTE](https://hcmute.edu.vn/) majoring in **Embedded System and IoT**.
+I'm a **fourth year student**🎓 of [@HCMUTE](https://hcmute.edu.vn/) majoring in **Embedded System and IoT**.
  
   - 📙 Check out my [Portfolio](https://tranquochuy645.github.io).
   - 📝 Download my [Resume](https://tranquochuy645.github.io/assets/TranQuocHuy_SoftwareDeveloper.pdf).
@@ -11,7 +11,7 @@ I'm a **final-year student**🎓 of [@HCMUTE](https://hcmute.edu.vn/) majoring i
 
 ## ⚡️ Quick facts about me ❓
 
-- 💼 I aspire to become a **Backend Developer**.
+- 💼 I aspire to become a **Software engineer**.
 
 - 👨‍💻 I engage in a lot of coding, primarily working with TypeScript.
 
