@@ -2,4 +2,3 @@
 I work with:
 - TypeScript/Python
 - LLMs
-- Printers
