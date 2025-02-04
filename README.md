@@ -2,4 +2,4 @@
 I work with:
 - TypeScript/Python
 - LLMs
-- Printers and AC
+- Printers
